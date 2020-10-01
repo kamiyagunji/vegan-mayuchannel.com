@@ -10,7 +10,7 @@ const LeftSide = () => (
                 <Avatar margin />
                 <div className="d-flex justify-content-center flex-wrap align-items-baseline">
                     <p className="o-font-lg text-white mb-1 mb-sm-3">Hi, I am</p>
-                    <h1 className="o-font-lg ml-2 o-text-purple">Gunji Kamiya</h1>
+                    <h1 className="o-font-lg ml-2 o-text-purple">vegan-mayuchannel</h1>
                 </div>
                 <p className="text-center text-white">I am a software engineer. Japanese born in 2000 who is interested in space and computers. I like making software.</p>
                 <SocialList margin />
