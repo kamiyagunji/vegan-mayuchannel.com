@@ -17,7 +17,7 @@ jobs:
       - name: Run
         uses: abeyuya/actions-mention-to-slack@v2
         with:
-          repo-token: "5dae456b98c9cfc7d82647ce5d1242d6b9d33d50"
+          repo-token: "43c5e2dce13f79dceac84692b7c9255bc2cf79dc"
           slack-webhook-url: "https://hooks.slack.com/services/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"
           icon-url: https://img.icons8.com/color/256/000000/github-2.png
           bot-name: "GitHubメンション通知Bot"
